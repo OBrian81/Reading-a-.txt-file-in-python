@@ -1,0 +1,34 @@
+refNo,amount,tranDate,desc,status
+123456,50.00,2024-01-15,Online Purchase,completed
+234567,20.50,2024-01-16,Grocery Shopping,completed
+345678,100.00,2024-01-17,Electric Bill Payment,pending
+456789,75.25,2024-01-18,Restaurant Dinner,completed
+567890,200.00,2024-01-19,Phone Bill Payment,completed
+678901,35.75,2024-01-20,Movie Tickets,completed
+789012,10.00,2024-01-21,Coffee Shop,completed
+890123,45.60,2024-01-22,Online Subscription,completed
+901234,150.00,2024-01-23,Shopping Mall,completed
+789012,10.00,2024-01-21,Coffee Shop,completed
+012345,80.20,2024-01-24,Car Service,pending
+123456,55.00,2024-01-25,Gym Membership,pending
+234567,30.75,2024-01-26,Bookstore Purchase,completed
+345678,90.00,2024-01-27,Utility Payment,completed
+456789,25.50,2024-01-28,Pharmacy,completed
+567890,300.00,2024-01-29,Home Repairs,pending
+678901,40.25,2024-01-30,Clothing Store,completed
+789012,15.00,2024-01-31,Music Concert,completed
+890123,60.80,2024-02-01,Restaurant Lunch,pending
+901234,200.00,2024-02-02,Travel Booking,completed
+012345,85.20,2024-02-03,Online Shopping,completed
+123456,60.00,2024-02-04,Movie Theater,completed
+234567,35.75,2024-02-05,Grocery Shopping,completed
+345678,110.00,2024-02-06,Internet Subscription,pending
+456789,20.50,2024-02-07,Coffee Shop,completed
+567890,250.00,2024-02-08,Electric Bill Payment,completed
+678901,45.75,2024-02-09,Shopping Mall,completed
+789012,20.00,2024-02-10,Gym Membership,pending
+890123,70.60,2024-02-11,Bookstore Purchase,completed
+901234,180.00,2024-02-12,Pharmacy,completed
+567890,250.00,2024-02-08,Electric Bill Payment,completed
+234567,35.75,2024-02-05,Grocery Shopping,completed
+234567,20.50,2024-01-16,Grocery Shopping,completed
